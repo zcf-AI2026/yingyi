@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "versionName": "0.20.0",
-  "url": "https://github.com/zcf-AI2026/yingyi/releases/download/v0.20.0/YingYi-v0.20.0.apk",
-  "notes": "影译 v0.20.0：新增耳机同传（译文直接播到耳机，支持耳返模式）与外接设备翻译机模式（QYDEV/1 协议，设备拾音、译文回传设备喇叭）。视频/对话/同传/会议录制/文本/离线/拍照翻译保持不变，55 种语言全部离线运行。"
+  "versionCode": 84,
+  "versionName": "0.24.0",
+  "url": "https://github.com/zcf-AI2026/yingyi/releases/download/v0.24.0/YingYi-v0.24.0.apk",
+  "notes": "影译 v0.24.0：跨应用翻译三件套（输入法 / 翻译悬浮球 / AI 润色）、离线模型国内可用性修复（v0.22.0 起内置中英双向模型）、面对面播报修复 + 每句译文喇叭按钮、TTS 队列重构 + ASR LRU + 两级流水线（修复「越用越慢」）。视频 / 对话 / 同传 / 会议录制 / 拍照翻译保持不变，55 种语言全部离线运行。"
 }
